@@ -1,0 +1,10 @@
+{
+  "Colors": [
+   "Colors.white",
+   "Colors.blue",
+   "Colors.green"
+  ],
+  "BgColor" : "Colors.white",
+  "font": 14,
+  "string": "Hello World"
+}
