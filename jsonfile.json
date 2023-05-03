@@ -1,10 +1,33 @@
-{
+[{
   "Colors": [
    "Colors.white",
    "Colors.blue",
    "Colors.green"
   ],
-  "BgColor" : "Colors.white",
+  "BgColor" : "Colors.grey",
+  "FullBgColor" : "Colors.white",
   "font": 14,
-  "string": "Hello World"
-}
+  "string": "First Color Selection"
+},
+ {
+  "Colors": [
+   "Colors.red",
+   "Colors.yellow",
+   "Colors.pink"
+  ],
+  "BgColor" : "Colors.black",
+  "FullBgColor" : "Colors.grey",
+  "font": 18,
+  "string": "Second Color Selection"
+},
+ {
+  "Colors": [
+   "Colors.white",
+   "Colors.red",
+   "Colors.yellow"
+  ],
+  "BgColor" : "Colors.pink",
+  "FullBgColor" : "Colors.yellow",
+  "font": 22,
+  "string": "Third Color Selection"
+}]
