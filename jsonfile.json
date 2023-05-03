@@ -4,7 +4,7 @@
    "Colors.blue",
    "Colors.green"
   ],
-  "BgColor" : "0xff443a49",
+  "BgColor" : "Colors.red",
   "FullBgColor" : "Colors.white",
   "font": 14,
   "string": "First Color Selection"
@@ -15,7 +15,7 @@
    "Colors.yellow",
    "Colors.pink"
   ],
-  "BgColor" : "0xff443a49",
+  "BgColor" : "Colors.pink",
   "FullBgColor" : "Colors.grey",
   "font": 18,
   "string": "Second Color Selection"
@@ -26,7 +26,7 @@
    "Colors.red",
    "Colors.yellow"
   ],
-  "BgColor" : "0xff443a49",
+  "BgColor" : "Colors.blue",
   "FullBgColor" : "Colors.yellow",
   "font": 22,
   "string": "Third Color Selection"
